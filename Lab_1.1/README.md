@@ -10,6 +10,8 @@ To run the app, install this ```.apk``` file:
 
 ![](Screenshots/11.jpg)
 
+<br />
+
 ## App content:
 
 <br />
